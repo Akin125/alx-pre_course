@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 "ALX School"
 
+=======
+"ALX School is so cool!"
+>>>>>>> parent of fb5130b (Cool, all my changes will be now part of the main branch, ready to deployed!)
